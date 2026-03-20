@@ -1,0 +1,200 @@
+[
+  {
+    "NO": 1,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131001",
+    "NAMA_PRODI": "TARI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "26",
+    "PEMINAT_2025": "38",
+    "JENIS_PORTOFOLIO": "Tari"
+  },
+  {
+    "NO": 2,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131002",
+    "NAMA_PRODI": "SENI KARAWITAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "25",
+    "PEMINAT_2025": "16",
+    "JENIS_PORTOFOLIO": "Seni Karawitan"
+  },
+  {
+    "NO": 3,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131003",
+    "NAMA_PRODI": "PENDIDIKAN SENI PERTUNJUKAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "46",
+    "PEMINAT_2025": "51",
+    "JENIS_PORTOFOLIO": "Sendratasik"
+  },
+  {
+    "NO": 4,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131004",
+    "NAMA_PRODI": "MUSIK",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "32",
+    "PEMINAT_2025": "50",
+    "JENIS_PORTOFOLIO": "Musik"
+  },
+  {
+    "NO": 5,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131005",
+    "NAMA_PRODI": "SENI MURNI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "32",
+    "PEMINAT_2025": "25",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 6,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131006",
+    "NAMA_PRODI": "DESAIN INTERIOR",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "52",
+    "PEMINAT_2025": "72",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 7,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131007",
+    "NAMA_PRODI": "DESAIN KOMUNIKASI VISUAL",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "117",
+    "PEMINAT_2025": "217",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 8,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131008",
+    "NAMA_PRODI": "KRIYA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "8",
+    "PEMINAT_2025": "2",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 9,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131009",
+    "NAMA_PRODI": "FOTOGRAFI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "43",
+    "PEMINAT_2025": "57",
+    "JENIS_PORTOFOLIO": "Fotografi"
+  },
+  {
+    "NO": 10,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131010",
+    "NAMA_PRODI": "SENI PEDALANGAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "7",
+    "PEMINAT_2025": "1",
+    "JENIS_PORTOFOLIO": "Seni Pedalangan"
+  },
+  {
+    "NO": 11,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131013",
+    "NAMA_PRODI": "DESAIN PRODUK",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "18",
+    "PEMINAT_2025": "27",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 12,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131015",
+    "NAMA_PRODI": "TEATER",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "6",
+    "PEMINAT_2025": "4",
+    "JENIS_PORTOFOLIO": "Teater"
+  },
+  {
+    "NO": 13,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131016",
+    "NAMA_PRODI": "ARSITEKTUR",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "24",
+    "PEMINAT_2025": "",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 14,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131017",
+    "NAMA_PRODI": "BISNIS DIGITAL",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "32",
+    "PEMINAT_2025": "",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 15,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16131018",
+    "NAMA_PRODI": "BAHASA DAN KEBUDAYAAN INGGRIS",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "18",
+    "PEMINAT_2025": "",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 16,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16132011",
+    "NAMA_PRODI": "DESAIN MODE",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "46",
+    "PEMINAT_2025": "50",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 17,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16132012",
+    "NAMA_PRODI": "PRODUKSI FILM DAN TELEVISI",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "38",
+    "PEMINAT_2025": "51",
+    "JENIS_PORTOFOLIO": "Film dan Televisi"
+  },
+  {
+    "NO": 18,
+    "KODE_PTN": "1613",
+    "NAMA_PTN": "ISI BALI",
+    "KODE_PRODI": "16132014",
+    "NAMA_PRODI": "ANIMASI",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "34",
+    "PEMINAT_2025": "21",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  }
+]

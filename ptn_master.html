@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>DAYA TAMPUNG</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+	<link rel="stylesheet" href="css/site.min.css">
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+    </style>
+    <!--<link href="css/bootstrap-responsive.css" rel="stylesheet">-->
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    
+    </head>
+    <body>
+	<div class="navbar navbar-fixed-top navbar-inverse t-navbar" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+					<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-main-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				
+			</div>
+			
+			<div class="collapse navbar-collapse navbar-main-collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="ptn_sn.php">Daftar PTN AKADEMIK</a></li>
+					<li><a href="ptn_sn.php?ptn=-2">Daftar PTN VOKASI</a></li>	
+					<li><a href="ptn_sn.php?ptn=-3">Daftar PT KIN</a></li>	
+				</ul>
+			</div>
+						
+		</div>
+	</div>
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+		<h3>DAFTAR  PTN Akademik </h3>
+	<hr />
+	<div class="bs-example bs-example-tabs">
+	    <ul id="myTab" class="nav nav-tabs">
+
+	    <li class="active"><a href="#wilayah_all" data-toggle="tab">Daftar PTN</a></li>			  
+	    </ul>
+	    <div id="myTabContent" class="tab-content">
+
+	    <div class="tab-pane fade in active" id="wilayah_all">
+		<br />
+		<table class="table table-striped">
+		<thead>
+		    <tr>
+			<th>NO</th>                        
+			<th>KODE</th>
+			<th>NAMA</th>
+			<th>KAB / KOTA</th>
+			<th>PROVINSI-1</th>
+			<th>PROVINSI-2</th>
+			<th></th>                            
+		    </tr>
+		</thead>
+		<tbody>
+		<tr>
+		    <td>1</td>
+					<td><a href="?ptn=111">1111</a></td>
+		    <td><a href="?ptn=111">UNIVERSITAS SYIAH KUALA</a>
+					<br>(<a target="_blank" href="https://pmb.usk.ac.id/">https://pmb.usk.ac.id/</a>)</td>
+		    <td>Kota Banda Aceh</td>
+		    <td>Aceh</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=111" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>2</td>
+					<td><a href="?ptn=112">1112</a></td>
+		    <td><a href="?ptn=112">UNIVERSITAS MALIKUSSALEH</a>
+					<br>(<a target="_blank" href="http://pmb.unimal.ac.id/">http://pmb.unimal.ac.id/</a>)</td>
+		    <td>Kabupaten Aceh Utara</td>
+		    <td>Aceh</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=112" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>3</td>
+					<td><a href="?ptn=113">1113</a></td>
+		    <td><a href="?ptn=113">UNIVERSITAS TEUKU UMAR</a>
+					<br>(<a target="_blank" href="https://pmb.utu.ac.id/">https://pmb.utu.ac.id/</a>)</td>
+		    <td>Kabupaten Aceh Barat</td>
+		    <td>Aceh</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=113" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>4</td>
+					<td><a href="?ptn=114">1114</a></td>
+		    <td><a href="?ptn=114">UNIVERSITAS SAMUDRA</a>
+					<br>(<a target="_blank" href="https://camaba.unsam.ac.id/">https://camaba.unsam.ac.id/</a>)</td>
+		    <td>Kota Langsa</td>
+		    <td>Aceh</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=114" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>5</td>
+					<td><a href="?ptn=115">1115</a></td>
+		    <td><a href="?ptn=115">ISBI ACEH</a>
+					<br>(<a target="_blank" href="http://pmb.isbiaceh.ac.id/">http://pmb.isbiaceh.ac.id/</a>)</td>
+		    <td>Kabupaten Aceh Besar</td>
+		    <td>Aceh</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=115" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>6</td>
+					<td><a href="?ptn=121">1121</a></td>
+		    <td><a href="?ptn=121">UNIVERSITAS SUMATERA UTARA</a>
+					<br>(<a target="_blank" href="https://www.usu.ac.id/id/penerimaan">https://www.usu.ac.id/id/penerimaan</a>)</td>
+		    <td>Kota Medan</td>
+		    <td>Sumatera Utara</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=121" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>7</td>
+					<td><a href="?ptn=122">1122</a></td>
+		    <td><a href="?ptn=122">UNIVERSITAS NEGERI MEDAN</a>
+					<br>(<a target="_blank" href="https://www.unimed.ac.id/pmb/">https://www.unimed.ac.id/pmb/</a>)</td>
+		    <td>Kota Medan</td>
+		    <td>Sumatera Utara</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=122" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>8</td>
+					<td><a href="?ptn=131">1131</a></td>
+		    <td><a href="?ptn=131">UNIVERSITAS RIAU</a>
+					<br>(<a target="_blank" href="https://registrasiulang.unri.ac.id/ ">https://registrasiulang.unri.ac.id/ </a>)</td>
+		    <td>Kota Pekanbaru</td>
+		    <td>Riau</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=131" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>9</td>
+					<td><a href="?ptn=133">1133</a></td>
+		    <td><a href="?ptn=133">UNIVERSITAS MARITIM RAJA ALI HAJI</a>
+					<br>(<a target="_blank" href="https://penerimaan.umrah.ac.id/">https://penerimaan.umrah.ac.id/</a>)</td>
+		    <td>Kota Tanjungpinang</td>
+		    <td>Kepulauan Riau</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=133" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>10</td>
+					<td><a href="?ptn=141">1141</a></td>
+		    <td><a href="?ptn=141">UNIVERSITAS ANDALAS</a>
+					<br>(<a target="_blank" href="https://pmb.unand.ac.id/">https://pmb.unand.ac.id/</a>)</td>
+		    <td>Kota Padang</td>
+		    <td>Sumatera Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=141" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>11</td>
+					<td><a href="?ptn=142">1142</a></td>
+		    <td><a href="?ptn=142">UNIVERSITAS NEGERI PADANG</a>
+					<br>(<a target="_blank" href="https://spmb.unp.ac.id">https://spmb.unp.ac.id</a>)</td>
+		    <td>Kota Padang</td>
+		    <td>Sumatera Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=142" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>12</td>
+					<td><a href="?ptn=143">1143</a></td>
+		    <td><a href="?ptn=143">ISI PADANG PANJANG</a>
+					<br>(<a target="_blank" href="https://www.isi-padangpanjang.ac.id/">https://www.isi-padangpanjang.ac.id/</a>)</td>
+		    <td>Kota Padang Panjang</td>
+		    <td>Sumatera Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=143" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>13</td>
+					<td><a href="?ptn=151">1151</a></td>
+		    <td><a href="?ptn=151">UNIVERSITAS JAMBI</a>
+					<br>(<a target="_blank" href="https://regis.unja.ac.id/">https://regis.unja.ac.id/</a>)</td>
+		    <td>Kabupaten Muaro Jambi</td>
+		    <td>Jambi</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=151" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>14</td>
+					<td><a href="?ptn=161">1161</a></td>
+		    <td><a href="?ptn=161">UNIVERSITAS BENGKULU</a>
+					<br>(<a target="_blank" href="https://portal.unib.ac.id">https://portal.unib.ac.id</a>)</td>
+		    <td>Kota Bengkulu</td>
+		    <td>Bengkulu</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=161" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>15</td>
+					<td><a href="?ptn=171">1171</a></td>
+		    <td><a href="?ptn=171">UNIVERSITAS SRIWIJAYA</a>
+					<br>(<a target="_blank" href="https://pmb.unsri.ac.id/">https://pmb.unsri.ac.id/</a>)</td>
+		    <td>Kabupaten Ogan Ilir</td>
+		    <td>Sumatera Selatan</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=171" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>16</td>
+					<td><a href="?ptn=181">1181</a></td>
+		    <td><a href="?ptn=181">UNIVERSITAS BANGKA BELITUNG</a>
+					<br>(<a target="_blank" href="https://pmb.ubb.ac.id">https://pmb.ubb.ac.id</a>)</td>
+		    <td>Kabupaten Bangka</td>
+		    <td>Kepulauan Bangka Belitung</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=181" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>17</td>
+					<td><a href="?ptn=191">1191</a></td>
+		    <td><a href="?ptn=191">UNIVERSITAS LAMPUNG</a>
+					<br>(<a target="_blank" href="http://simanila.unila.ac.id/">http://simanila.unila.ac.id/</a>)</td>
+		    <td>Kota Bandar Lampung</td>
+		    <td>Lampung</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=191" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>18</td>
+					<td><a href="?ptn=192">1192</a></td>
+		    <td><a href="?ptn=192">INSTITUT TEKNOLOGI SUMATERA</a>
+					<br>(<a target="_blank" href="https://pmb.itera.ac.id/">https://pmb.itera.ac.id/</a>)</td>
+		    <td>Kabupaten Lampung Selatan</td>
+		    <td>Lampung</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=192" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>19</td>
+					<td><a href="?ptn=311">1311</a></td>
+		    <td><a href="?ptn=311">UNIVERSITAS SULTAN AGENG TIRTAYASA</a>
+					<br>(<a target="_blank" href="https://pmb.untirta.ac.id/">https://pmb.untirta.ac.id/</a>)</td>
+		    <td>Kabupaten Serang</td>
+		    <td>Banten</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=311" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>20</td>
+					<td><a href="?ptn=321">1321</a></td>
+		    <td><a href="?ptn=321">UNIVERSITAS INDONESIA</a>
+					<br>(<a target="_blank" href="https://enrollment.ui.ac.id/">https://enrollment.ui.ac.id/</a>)</td>
+		    <td>Kota Jakarta Pusat</td>
+		    <td>Jakarta Raya</td>
+		    <td>Jawa Barat</td>
+	
+		    <td><a href="?ptn=321" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>21</td>
+					<td><a href="?ptn=323">1323</a></td>
+		    <td><a href="?ptn=323">UNIVERSITAS NEGERI JAKARTA</a>
+					<br>(<a target="_blank" href="http://penmaba.unj.ac.id/">http://penmaba.unj.ac.id/</a>)</td>
+		    <td>Kota Jakarta Timur</td>
+		    <td>Jakarta Raya</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=323" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>22</td>
+					<td><a href="?ptn=324">1324</a></td>
+		    <td><a href="?ptn=324">UPN "VETERAN" JAKARTA</a>
+					<br>(<a target="_blank" href="https://penmaru.upnvj.ac.id/">https://penmaru.upnvj.ac.id/</a>)</td>
+		    <td>Kota Jakarta Selatan</td>
+		    <td>Jakarta Raya</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=324" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>23</td>
+					<td><a href="?ptn=329">1329</a></td>
+		    <td><a href="?ptn=329">UNIVERSITAS TERBUKA</a>
+					<br>(<a target="_blank" href="https://www.ut.ac.id/sistem-registrasi">https://www.ut.ac.id/sistem-registrasi</a>)</td>
+		    <td>Kota Tangerang Selatan</td>
+		    <td>Banten</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=329" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>24</td>
+					<td><a href="?ptn=331">1331</a></td>
+		    <td><a href="?ptn=331">UNIVERSITAS SINGAPERBANGSA KARAWANG</a>
+					<br>(<a target="_blank" href="https://pmb.unsika.ac.id/">https://pmb.unsika.ac.id/</a>)</td>
+		    <td>Kabupaten Karawang</td>
+		    <td>Jawa Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=331" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>25</td>
+					<td><a href="?ptn=332">1332</a></td>
+		    <td><a href="?ptn=332">INSTITUT TEKNOLOGI BANDUNG</a>
+					<br>(<a target="_blank" href="https://admission.itb.ac.id">https://admission.itb.ac.id</a>)</td>
+		    <td>Kota Bandung</td>
+		    <td>Jawa Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=332" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>26</td>
+					<td><a href="?ptn=333">1333</a></td>
+		    <td><a href="?ptn=333">UNIVERSITAS PADJADJARAN</a>
+					<br>(<a target="_blank" href="https://smup.unpad.ac.id/">https://smup.unpad.ac.id/</a>)</td>
+		    <td>Kabupaten Sumedang</td>
+		    <td>Jawa Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=333" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>27</td>
+					<td><a href="?ptn=334">1334</a></td>
+		    <td><a href="?ptn=334">UNIVERSITAS PENDIDIKAN INDONESIA</a>
+					<br>(<a target="_blank" href="https://pmb.upi.edu/">https://pmb.upi.edu/</a>)</td>
+		    <td>Kota Bandung</td>
+		    <td>Jawa Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=334" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>28</td>
+					<td><a href="?ptn=335">1335</a></td>
+		    <td><a href="?ptn=335">ISBI BANDUNG</a>
+					<br>(<a target="_blank" href="https://pmb.isbi.ac.id/">https://pmb.isbi.ac.id/</a>)</td>
+		    <td>Kota Bandung</td>
+		    <td>Jawa Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=335" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>29</td>
+					<td><a href="?ptn=341">1341</a></td>
+		    <td><a href="?ptn=341">INSTITUT PERTANIAN BOGOR</a>
+					<br>(<a target="_blank" href="https://registrasi.admisi.ipb.ac.id">https://registrasi.admisi.ipb.ac.id</a>)</td>
+		    <td>Kabupaten Bogor</td>
+		    <td>Jawa Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=341" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>30</td>
+					<td><a href="?ptn=342">1342</a></td>
+		    <td><a href="?ptn=342">UNIVERSITAS SILIWANGI</a>
+					<br>(<a target="_blank" href="https://pmb.unsil.ac.id/">https://pmb.unsil.ac.id/</a>)</td>
+		    <td>Kota Tasikmalaya</td>
+		    <td>Jawa Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=342" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>31</td>
+					<td><a href="?ptn=351">1351</a></td>
+		    <td><a href="?ptn=351">UNIVERSITAS JENDERAL SOEDIRMAN</a>
+					<br>(<a target="_blank" href="http://admisi.unsoed.ac.id/">http://admisi.unsoed.ac.id/</a>)</td>
+		    <td>Kabupaten Banyumas</td>
+		    <td>Jawa Tengah</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=351" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>32</td>
+					<td><a href="?ptn=352">1352</a></td>
+		    <td><a href="?ptn=352">UNIVERSITAS TIDAR</a>
+					<br>(<a target="_blank" href="https://smart.untidar.ac.id">https://smart.untidar.ac.id</a>)</td>
+		    <td>Kota Magelang</td>
+		    <td>Jawa Tengah</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=352" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>33</td>
+					<td><a href="?ptn=353">1353</a></td>
+		    <td><a href="?ptn=353">UNIVERSITAS SEBELAS MARET</a>
+					<br>(<a target="_blank" href="https://spmb.uns.ac.id">https://spmb.uns.ac.id</a>)</td>
+		    <td>Kota Surakarta</td>
+		    <td>Jawa Tengah</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=353" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>34</td>
+					<td><a href="?ptn=354">1354</a></td>
+		    <td><a href="?ptn=354">ISI SURAKARTA</a>
+					<br>(<a target="_blank" href="https://spmb.isi-ska.ac.id/">https://spmb.isi-ska.ac.id/</a>)</td>
+		    <td>Kota Surakarta</td>
+		    <td>Jawa Tengah</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=354" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>35</td>
+					<td><a href="?ptn=355">1355</a></td>
+		    <td><a href="?ptn=355">UNIVERSITAS DIPONEGORO</a>
+					<br>(<a target="_blank" href="https://pmb.undip.ac.id/">https://pmb.undip.ac.id/</a>)</td>
+		    <td>Kota Semarang</td>
+		    <td>Jawa Tengah</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=355" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>36</td>
+					<td><a href="?ptn=356">1356</a></td>
+		    <td><a href="?ptn=356">UNIVERSITAS NEGERI SEMARANG</a>
+					<br>(<a target="_blank" href="https://unnes.ac.id/admission">https://unnes.ac.id/admission</a>)</td>
+		    <td>Kota Semarang</td>
+		    <td>Jawa Tengah</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=356" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>37</td>
+					<td><a href="?ptn=361">1361</a></td>
+		    <td><a href="?ptn=361">UNIVERSITAS GADJAH MADA</a>
+					<br>(<a target="_blank" href="https://admissions.ugm.ac.id">https://admissions.ugm.ac.id</a>)</td>
+		    <td>Kabupaten Sleman</td>
+		    <td>Yogyakarta</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=361" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>38</td>
+					<td><a href="?ptn=362">1362</a></td>
+		    <td><a href="?ptn=362">UNIVERSITAS NEGERI YOGYAKARTA</a>
+					<br>(<a target="_blank" href="http://pmb.uny.ac.id">http://pmb.uny.ac.id</a>)</td>
+		    <td>Kabupaten Sleman</td>
+		    <td>Yogyakarta</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=362" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>39</td>
+					<td><a href="?ptn=363">1363</a></td>
+		    <td><a href="?ptn=363">UPN "VETERAN" YOGYAKARTA</a>
+					<br>(<a target="_blank" href="https://pmb.upnyk.ac.id/">https://pmb.upnyk.ac.id/</a>)</td>
+		    <td>Kabupaten Sleman</td>
+		    <td>Yogyakarta</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=363" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>40</td>
+					<td><a href="?ptn=364">1364</a></td>
+		    <td><a href="?ptn=364">ISI YOGYAKARTA</a>
+					<br>(<a target="_blank" href="https://pmb.isi.ac.id/">https://pmb.isi.ac.id/</a>)</td>
+		    <td>Kabupaten Bantul</td>
+		    <td>Yogyakarta</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=364" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>41</td>
+					<td><a href="?ptn=371">1371</a></td>
+		    <td><a href="?ptn=371">UNIVERSITAS JEMBER</a>
+					<br>(<a target="_blank" href="https://pmb.unej.ac.id ">https://pmb.unej.ac.id </a>)</td>
+		    <td>Kabupate Jember</td>
+		    <td>Jawa Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=371" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>42</td>
+					<td><a href="?ptn=372">1372</a></td>
+		    <td><a href="?ptn=372">UNIVERSITAS BRAWIJAYA</a>
+					<br>(<a target="_blank" href="https://selma.ub.ac.id/">https://selma.ub.ac.id/</a>)</td>
+		    <td>Kota Malang</td>
+		    <td>Jawa Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=372" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>43</td>
+					<td><a href="?ptn=373">1373</a></td>
+		    <td><a href="?ptn=373">UNIVERSITAS NEGERI MALANG</a>
+					<br>(<a target="_blank" href="http://seleksi.um.ac.id/">http://seleksi.um.ac.id/</a>)</td>
+		    <td>Kota Malang</td>
+		    <td>Jawa Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=373" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>44</td>
+					<td><a href="?ptn=381">1381</a></td>
+		    <td><a href="?ptn=381">UNIVERSITAS AIRLANGGA</a>
+					<br>(<a target="_blank" href="https://ppmb.unair.ac.id">https://ppmb.unair.ac.id</a>)</td>
+		    <td>Kota Surabaya</td>
+		    <td>Jawa Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=381" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>45</td>
+					<td><a href="?ptn=382">1382</a></td>
+		    <td><a href="?ptn=382">INSTITUT TEKNOLOGI SEPULUH NOPEMBER</a>
+					<br>(<a target="_blank" href="https://www.its.ac.id/admission/">https://www.its.ac.id/admission/</a>)</td>
+		    <td>Kota Surabaya</td>
+		    <td>Jawa Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=382" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>46</td>
+					<td><a href="?ptn=383">1383</a></td>
+		    <td><a href="?ptn=383">UNIVERSITAS NEGERI SURABAYA</a>
+					<br>(<a target="_blank" href="https://admisi.unesa.ac.id/">https://admisi.unesa.ac.id/</a>)</td>
+		    <td>Kota Surabaya</td>
+		    <td>Jawa Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=383" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>47</td>
+					<td><a href="?ptn=384">1384</a></td>
+		    <td><a href="?ptn=384">UNIVERSITAS TRUNOJOYO MADURA</a>
+					<br>(<a target="_blank" href="https://sidamaba.trunojoyo.ac.id">https://sidamaba.trunojoyo.ac.id</a>)</td>
+		    <td>Kabupaten Bangkalan</td>
+		    <td>Jawa Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=384" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>48</td>
+					<td><a href="?ptn=385">1385</a></td>
+		    <td><a href="?ptn=385">UPN "VETERAN" JAWA TIMUR</a>
+					<br>(<a target="_blank" href="https://simaba.upnjatim.ac.id/ ">https://simaba.upnjatim.ac.id/ </a>)</td>
+		    <td>Kota Surabaya</td>
+		    <td>Jawa Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=385" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>49</td>
+					<td><a href="?ptn=511">1511</a></td>
+		    <td><a href="?ptn=511">UNIVERSITAS TANJUNGPURA</a>
+					<br>(<a target="_blank" href="https://scmb.untan.ac.id">https://scmb.untan.ac.id</a>)</td>
+		    <td>Kota Pontianak</td>
+		    <td>Kalimantan Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=511" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>50</td>
+					<td><a href="?ptn=521">1521</a></td>
+		    <td><a href="?ptn=521">UNIVERSITAS PALANGKARAYA</a>
+					<br>(<a target="_blank" href="https://pmb.upr.ac.id/">https://pmb.upr.ac.id/</a>)</td>
+		    <td>Kota Palangkaraya</td>
+		    <td>Kalimantan Tengah</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=521" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>51</td>
+					<td><a href="?ptn=531">1531</a></td>
+		    <td><a href="?ptn=531">UNIVERSITAS LAMBUNG MANGKURAT</a>
+					<br>(<a target="_blank" href="https://pmb.ulm.ac.id/">https://pmb.ulm.ac.id/</a>)</td>
+		    <td>Kota Banjarmasin</td>
+		    <td>Kalimantan Selatan</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=531" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>52</td>
+					<td><a href="?ptn=541">1541</a></td>
+		    <td><a href="?ptn=541">UNIVERSITAS MULAWARMAN</a>
+					<br>(<a target="_blank" href="https://unmul.ac.id">https://unmul.ac.id</a>)</td>
+		    <td>Kota Samarinda</td>
+		    <td>Kalimantan Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=541" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>53</td>
+					<td><a href="?ptn=542">1542</a></td>
+		    <td><a href="?ptn=542">INSTITUT TEKNOLOGI KALIMANTAN</a>
+					<br>(<a target="_blank" href="http://pmb.itk.ac.id/">http://pmb.itk.ac.id/</a>)</td>
+		    <td>Kota Balikpapan</td>
+		    <td>Kalimantan Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=542" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>54</td>
+					<td><a href="?ptn=551">1551</a></td>
+		    <td><a href="?ptn=551">UNIVERSITAS BORNEO TARAKAN</a>
+					<br>(<a target="_blank" href="https://www.ubt.ac.id/pmb/pengumuman-snbt/">https://www.ubt.ac.id/pmb/pengumuman-snbt/</a>)</td>
+		    <td>Kota Tarakan</td>
+		    <td>Kalimantan Utara</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=551" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>55</td>
+					<td><a href="?ptn=611">1611</a></td>
+		    <td><a href="?ptn=611">UNIVERSITAS UDAYANA</a>
+					<br>(<a target="_blank" href="https://www.unud.ac.id/">https://www.unud.ac.id/</a>)</td>
+		    <td>Kabupaten Badung</td>
+		    <td>Bali</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=611" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>56</td>
+					<td><a href="?ptn=612">1612</a></td>
+		    <td><a href="?ptn=612">UNIVERSITAS PENDIDIKAN GANESHA</a>
+					<br>(<a target="_blank" href="https://undiksha.ac.id/pmb/">https://undiksha.ac.id/pmb/</a>)</td>
+		    <td>Kabupaten Buleleng</td>
+		    <td>Bali</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=612" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>57</td>
+					<td><a href="?ptn=613">1613</a></td>
+		    <td><a href="?ptn=613">ISI BALI</a>
+					<br>(<a target="_blank" href="https://isibali.ac.id/">https://isibali.ac.id/</a>)</td>
+		    <td>Kota Denpasar</td>
+		    <td>Bali</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=613" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>58</td>
+					<td><a href="?ptn=621">1621</a></td>
+		    <td><a href="?ptn=621">UNIVERSITAS MATARAM</a>
+					<br>(<a target="_blank" href="https://unram.ac.id/">https://unram.ac.id/</a>)</td>
+		    <td>Kota Mataram</td>
+		    <td>Nusa Tenggara Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=621" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>59</td>
+					<td><a href="?ptn=631">1631</a></td>
+		    <td><a href="?ptn=631">UNIVERSITAS NUSA CENDANA</a>
+					<br>(<a target="_blank" href="https://undana.ac.id/admissions/">https://undana.ac.id/admissions/</a>)</td>
+		    <td>Kota Kupang</td>
+		    <td>Nusa Tenggara Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=631" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>60</td>
+					<td><a href="?ptn=632">1632</a></td>
+		    <td><a href="?ptn=632">UNIVERSITAS TIMOR</a>
+					<br>(<a target="_blank" href="https://www.unimor.ac.id">https://www.unimor.ac.id</a>)</td>
+		    <td>Kabupaten Timor Tengah Utara</td>
+		    <td>Nusa Tenggara Timur</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=632" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>61</td>
+					<td><a href="?ptn=711">1711</a></td>
+		    <td><a href="?ptn=711">UNIVERSITAS HASANUDDIN</a>
+					<br>(<a target="_blank" href="https://regpmb.unhas.ac.id">https://regpmb.unhas.ac.id</a>)</td>
+		    <td>Kota Makassar</td>
+		    <td>Sulawesi Selatan</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=711" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>62</td>
+					<td><a href="?ptn=712">1712</a></td>
+		    <td><a href="?ptn=712">UNIVERSITAS NEGERI MAKASSAR</a>
+					<br>(<a target="_blank" href="https://unm.ac.id/info-pmb/">https://unm.ac.id/info-pmb/</a>)</td>
+		    <td>Kota Makassar</td>
+		    <td>Sulawesi Selatan</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=712" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>63</td>
+					<td><a href="?ptn=718">1718</a></td>
+		    <td><a href="?ptn=718">INSTITUT TEKNOLOGI BJ. HABIBIE SULAWESI SELATAN</a>
+					<br>(<a target="_blank" href="https://admission.ith.ac.id/">https://admission.ith.ac.id/</a>)</td>
+		    <td>Kota Parepare</td>
+		    <td>Sulawesi Selatan</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=718" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>64</td>
+					<td><a href="?ptn=721">1721</a></td>
+		    <td><a href="?ptn=721">UNIVERSITAS SAM RATULANGI</a>
+					<br>(<a target="_blank" href="https://regmaba.unsrat.ac.id">https://regmaba.unsrat.ac.id</a>)</td>
+		    <td>Kota Manado</td>
+		    <td>Sulawesi Utara</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=721" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>65</td>
+					<td><a href="?ptn=722">1722</a></td>
+		    <td><a href="?ptn=722">UNIVERSITAS NEGERI MANADO</a>
+					<br>(<a target="_blank" href="https://penerimaan.unima.ac.id/">https://penerimaan.unima.ac.id/</a>)</td>
+		    <td>Kabupaten Minahasa</td>
+		    <td>Sulawesi Utara</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=722" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>66</td>
+					<td><a href="?ptn=731">1731</a></td>
+		    <td><a href="?ptn=731">UNIVERSITAS TADULAKO</a>
+					<br>(<a target="_blank" href="https://pmb.untad.ac.id/">https://pmb.untad.ac.id/</a>)</td>
+		    <td>Kota Palu</td>
+		    <td>Sulawesi Tengah</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=731" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>67</td>
+					<td><a href="?ptn=741">1741</a></td>
+		    <td><a href="?ptn=741">UNIVERSITAS SULAWESI BARAT</a>
+					<br>(<a target="_blank" href="https://pmb.unsulbar.ac.id/">https://pmb.unsulbar.ac.id/</a>)</td>
+		    <td>Kabupaten Majene</td>
+		    <td>Sulawesi Barat</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=741" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>68</td>
+					<td><a href="?ptn=751">1751</a></td>
+		    <td><a href="?ptn=751">UNIVERSITAS HALUOLEO</a>
+					<br>(<a target="_blank" href="https://spmb.uho.ac.id/">https://spmb.uho.ac.id/</a>)</td>
+		    <td>Kota Kendari</td>
+		    <td>Sulawesi Tenggara</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=751" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>69</td>
+					<td><a href="?ptn=752">1752</a></td>
+		    <td><a href="?ptn=752">UNIVERSITAS NEGERI GORONTALO</a>
+					<br>(<a target="_blank" href="https://spmb.ung.ac.id/">https://spmb.ung.ac.id/</a>)</td>
+		    <td>Kota Gorontalo</td>
+		    <td>Gorontalo</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=752" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>70</td>
+					<td><a href="?ptn=753">1753</a></td>
+		    <td><a href="?ptn=753">UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA</a>
+					<br>(<a target="_blank" href="https://spmb.usn.ac.id/">https://spmb.usn.ac.id/</a>)</td>
+		    <td>Kabupaten Kolaka</td>
+		    <td>Sulawesi Tenggara</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=753" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>71</td>
+					<td><a href="?ptn=811">1811</a></td>
+		    <td><a href="?ptn=811">UNIVERSITAS PATTIMURA</a>
+					<br>(<a target="_blank" href="https://pmb.unpatti.ac.id">https://pmb.unpatti.ac.id</a>)</td>
+		    <td>Kota Ambon</td>
+		    <td>Maluku</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=811" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>72</td>
+					<td><a href="?ptn=821">1821</a></td>
+		    <td><a href="?ptn=821">UNIVERSITAS KHAIRUN</a>
+					<br>(<a target="_blank" href="http://ukt.unkhair.ac.id/">http://ukt.unkhair.ac.id/</a>)</td>
+		    <td>Kota Ternate</td>
+		    <td>Maluku Utara</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=821" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>73</td>
+					<td><a href="?ptn=911">1911</a></td>
+		    <td><a href="?ptn=911">UNIVERSITAS CENDERAWASIH</a>
+					<br>(<a target="_blank" href="https://pmb.uncen.ac.id">https://pmb.uncen.ac.id</a>)</td>
+		    <td>Kota Jayapura</td>
+		    <td>Papua</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=911" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>74</td>
+					<td><a href="?ptn=912">1912</a></td>
+		    <td><a href="?ptn=912">UNIVERSITAS MUSAMUS MERAUKE</a>
+					<br>(<a target="_blank" href="http://admisi.unmus.ac.id/">http://admisi.unmus.ac.id/</a>)</td>
+		    <td>Kabupaten Merauke</td>
+		    <td>Papua Selatan</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=912" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>75</td>
+					<td><a href="?ptn=913">1913</a></td>
+		    <td><a href="?ptn=913">ISBI TANAH PAPUA</a>
+					<br>(<a target="_blank" href="https://www.pmb.isbi-tanahpapua.ac.id">https://www.pmb.isbi-tanahpapua.ac.id</a>)</td>
+		    <td>Kabupate Jayapura</td>
+		    <td>Papua</td>
+		    <td></td>
+	
+		    <td><a href="?ptn=913" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				<tr>
+		    <td>76</td>
+					<td><a href="?ptn=921">1921</a></td>
+		    <td><a href="?ptn=921">UNIVERSITAS PAPUA</a>
+					<br>(<a target="_blank" href="https://bpak.unipa.ac.id/">https://bpak.unipa.ac.id/</a>)</td>
+		    <td>Kabupaten Manokwari</td>
+		    <td>Papua Barat</td>
+		    <td>Papua Barat Daya</td>
+	
+		    <td><a href="?ptn=921" class="btn btn-info btn-xs">Lihat Prodi</a></td>
+		</tr>
+				</tbody>
+		</table>
+	    </div>
+	    </div>
+	</div><!-- /example -->
+    </div>
+</div>
+</body>
+</html>
+     

@@ -1,0 +1,200 @@
+[
+  {
+    "NO": 1,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321001",
+    "NAMA_PRODI": "AGRIBISNIS",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "39",
+    "PEMINAT_2025": "29",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 2,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321002",
+    "NAMA_PRODI": "AGROTEKNOLOGI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "33",
+    "PEMINAT_2025": "19",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 3,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321003",
+    "NAMA_PRODI": "PETERNAKAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "39",
+    "PEMINAT_2025": "24",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 4,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321004",
+    "NAMA_PRODI": "PEND. BIOLOGI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "54",
+    "PEMINAT_2025": "56",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 5,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321005",
+    "NAMA_PRODI": "PEND. MATEMATIKA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "54",
+    "PEMINAT_2025": "36",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 6,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321006",
+    "NAMA_PRODI": "BIOLOGI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "30",
+    "PEMINAT_2025": "22",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 7,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321007",
+    "NAMA_PRODI": "MATEMATIKA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "18",
+    "PEMINAT_2025": "16",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 8,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321008",
+    "NAMA_PRODI": "KIMIA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "24",
+    "PEMINAT_2025": "18",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 9,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321009",
+    "NAMA_PRODI": "TEKNOLOGI INFORMASI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "53",
+    "PEMINAT_2025": "178",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 10,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321010",
+    "NAMA_PRODI": "ADM. NEGARA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "87",
+    "PEMINAT_2025": "54",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 11,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321011",
+    "NAMA_PRODI": "ILMU PEMERINTAHAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "75",
+    "PEMINAT_2025": "40",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 12,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321012",
+    "NAMA_PRODI": "PEND. BAHASA INDONESIA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "54",
+    "PEMINAT_2025": "96",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 13,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321013",
+    "NAMA_PRODI": "PEND. BAHASA INGGRIS",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "51",
+    "PEMINAT_2025": "37",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 14,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321014",
+    "NAMA_PRODI": "MANAJEMEN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "90",
+    "PEMINAT_2025": "108",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 15,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321015",
+    "NAMA_PRODI": "EKO. PEMBANGUNAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "68",
+    "PEMINAT_2025": "26",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 16,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321017",
+    "NAMA_PRODI": "KEHUTANAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "18",
+    "PEMINAT_2025": "",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 17,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16321018",
+    "NAMA_PRODI": "TEKNOLOGI HASIL PERTANIAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "15",
+    "PEMINAT_2025": "",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 18,
+    "KODE_PTN": "1632",
+    "NAMA_PTN": "UNIVERSITAS TIMOR",
+    "KODE_PRODI": "16323016",
+    "NAMA_PRODI": "KEPERAWATAN",
+    "JENJANG": "Diploma Tiga",
+    "DAYA_TAMPUNG_2026": "32",
+    "PEMINAT_2025": "95",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  }
+]

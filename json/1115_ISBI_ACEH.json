@@ -1,0 +1,123 @@
+[
+  {
+    "NO": 1,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151001",
+    "NAMA_PRODI": "SENI KARAWITAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "20",
+    "PEMINAT_2025": "3",
+    "JENIS_PORTOFOLIO": "Seni Karawitan"
+  },
+  {
+    "NO": 2,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151002",
+    "NAMA_PRODI": "SENI TARI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "38",
+    "PEMINAT_2025": "33",
+    "JENIS_PORTOFOLIO": "Tari"
+  },
+  {
+    "NO": 3,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151003",
+    "NAMA_PRODI": "SENI TEATER",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "15",
+    "PEMINAT_2025": "5",
+    "JENIS_PORTOFOLIO": "Teater"
+  },
+  {
+    "NO": 4,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151004",
+    "NAMA_PRODI": "SENI RUPA MURNI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "20",
+    "PEMINAT_2025": "14",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 5,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151005",
+    "NAMA_PRODI": "KRIYA SENI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "20",
+    "PEMINAT_2025": "8",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 6,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151006",
+    "NAMA_PRODI": "DESAIN KOMUNIKASI VISUAL",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "40",
+    "PEMINAT_2025": "25",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 7,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151007",
+    "NAMA_PRODI": "KAJIAN SASTRA BUDAYA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "15",
+    "PEMINAT_2025": "10",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 8,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151008",
+    "NAMA_PRODI": "BAHASA ACEH",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "15",
+    "PEMINAT_2025": "5",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 9,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151009",
+    "NAMA_PRODI": "DESAIN INTERIOR",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "20",
+    "PEMINAT_2025": "4",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 10,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151010",
+    "NAMA_PRODI": "BAHASA MANDARIN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "20",
+    "PEMINAT_2025": "",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 11,
+    "KODE_PTN": "1115",
+    "NAMA_PTN": "ISBI ACEH",
+    "KODE_PRODI": "11151011",
+    "NAMA_PRODI": "SEJARAH",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "20",
+    "PEMINAT_2025": "",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "NO": 1,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13351001",
+    "NAMA_PRODI": "TARI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "16",
+    "PEMINAT_2025": "174",
+    "JENIS_PORTOFOLIO": "Tari"
+  },
+  {
+    "NO": 2,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13351002",
+    "NAMA_PRODI": "KARAWITAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "30",
+    "PEMINAT_2025": "70",
+    "JENIS_PORTOFOLIO": "Seni Karawitan"
+  },
+  {
+    "NO": 3,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13351003",
+    "NAMA_PRODI": "TEATER",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "24",
+    "PEMINAT_2025": "40",
+    "JENIS_PORTOFOLIO": "Teater"
+  },
+  {
+    "NO": 4,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13351004",
+    "NAMA_PRODI": "SENI MURNI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "18",
+    "PEMINAT_2025": "99",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 5,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13351005",
+    "NAMA_PRODI": "ANTROPOLOGI BUDAYA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "20",
+    "PEMINAT_2025": "141",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 6,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13351011",
+    "NAMA_PRODI": "KRIYA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "9",
+    "PEMINAT_2025": "20",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 7,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13351012",
+    "NAMA_PRODI": "DESAIN KOMUNIKASI VISUAL",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "9",
+    "PEMINAT_2025": "282",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 8,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13351013",
+    "NAMA_PRODI": "DESAIN INTERIOR",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "9",
+    "PEMINAT_2025": "59",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 9,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13352006",
+    "NAMA_PRODI": "ANGKLUNG DAN MUSIK BAMBU",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "12",
+    "PEMINAT_2025": "5",
+    "JENIS_PORTOFOLIO": "Musik"
+  },
+  {
+    "NO": 10,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13352007",
+    "NAMA_PRODI": "TARI SUNDA",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "7",
+    "PEMINAT_2025": "27",
+    "JENIS_PORTOFOLIO": "Tari"
+  },
+  {
+    "NO": 11,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13352008",
+    "NAMA_PRODI": "TELEVISI DAN FILM",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "30",
+    "PEMINAT_2025": "157",
+    "JENIS_PORTOFOLIO": "Film dan Televisi"
+  },
+  {
+    "NO": 12,
+    "KODE_PTN": "1335",
+    "NAMA_PTN": "ISBI BANDUNG",
+    "KODE_PRODI": "13352009",
+    "NAMA_PRODI": "TATA RIAS DAN BUSANA",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "14",
+    "PEMINAT_2025": "75",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  }
+]

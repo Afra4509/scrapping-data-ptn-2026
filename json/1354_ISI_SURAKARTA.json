@@ -1,0 +1,233 @@
+[
+  {
+    "NO": 1,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541001",
+    "NAMA_PRODI": "TARI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "52",
+    "PEMINAT_2025": "177",
+    "JENIS_PORTOFOLIO": "Tari"
+  },
+  {
+    "NO": 2,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541002",
+    "NAMA_PRODI": "ETNOMUSIKOLOGI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "32",
+    "PEMINAT_2025": "20",
+    "JENIS_PORTOFOLIO": "Etnomusikologi"
+  },
+  {
+    "NO": 3,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541003",
+    "NAMA_PRODI": "TEATER",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "16",
+    "PEMINAT_2025": "17",
+    "JENIS_PORTOFOLIO": "Teater"
+  },
+  {
+    "NO": 4,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541004",
+    "NAMA_PRODI": "KRIYA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "28",
+    "PEMINAT_2025": "25",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 5,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541005",
+    "NAMA_PRODI": "SENI MURNI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "32",
+    "PEMINAT_2025": "92",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 6,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541006",
+    "NAMA_PRODI": "DESAIN INTERIOR",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "44",
+    "PEMINAT_2025": "108",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 7,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541007",
+    "NAMA_PRODI": "DESAIN KOMUNIKASI VISUAL",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "72",
+    "PEMINAT_2025": "619",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 8,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541008",
+    "NAMA_PRODI": "FILM DAN TELEVISI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "60",
+    "PEMINAT_2025": "248",
+    "JENIS_PORTOFOLIO": "Film dan Televisi"
+  },
+  {
+    "NO": 9,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541009",
+    "NAMA_PRODI": "FOTOGRAFI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "48",
+    "PEMINAT_2025": "96",
+    "JENIS_PORTOFOLIO": "Fotografi"
+  },
+  {
+    "NO": 10,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541010",
+    "NAMA_PRODI": "SENI KARAWITAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "44",
+    "PEMINAT_2025": "87",
+    "JENIS_PORTOFOLIO": "Seni Karawitan"
+  },
+  {
+    "NO": 11,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541011",
+    "NAMA_PRODI": "SENI PEDALANGAN",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "20",
+    "PEMINAT_2025": "27",
+    "JENIS_PORTOFOLIO": "Seni Pedalangan"
+  },
+  {
+    "NO": 12,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541014",
+    "NAMA_PRODI": "SENI INTERMEDIA",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "10",
+    "PEMINAT_2025": "31",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 13,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541015",
+    "NAMA_PRODI": "KOREOGRAFI INKUIRI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "10",
+    "PEMINAT_2025": "15",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 14,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541017",
+    "NAMA_PRODI": "DESAIN PRODUK INDUSTRI",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "12",
+    "PEMINAT_2025": "24",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 15,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541020",
+    "NAMA_PRODI": "ARSITEKTUR",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "10",
+    "PEMINAT_2025": "61",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 16,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13541021",
+    "NAMA_PRODI": "BISNIS MUSIK",
+    "JENJANG": "Sarjana",
+    "DAYA_TAMPUNG_2026": "10",
+    "PEMINAT_2025": "",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 17,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13542012",
+    "NAMA_PRODI": "SENJATA TRADISIONAL KERIS",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "10",
+    "PEMINAT_2025": "3",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 18,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13542013",
+    "NAMA_PRODI": "DESAIN MODE BATIK",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "36",
+    "PEMINAT_2025": "49",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 19,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13542016",
+    "NAMA_PRODI": "ANIMASI",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "16",
+    "PEMINAT_2025": "68",
+    "JENIS_PORTOFOLIO": "Seni Rupa, Desain, dan Kriya"
+  },
+  {
+    "NO": 20,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13542018",
+    "NAMA_PRODI": "TATA KELOLA SENI",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "10",
+    "PEMINAT_2025": "20",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  },
+  {
+    "NO": 21,
+    "KODE_PTN": "1354",
+    "NAMA_PTN": "ISI SURAKARTA",
+    "KODE_PRODI": "13542019",
+    "NAMA_PRODI": "DESTINASI PARIWISATA",
+    "JENJANG": "Sarjana Terapan",
+    "DAYA_TAMPUNG_2026": "10",
+    "PEMINAT_2025": "6",
+    "JENIS_PORTOFOLIO": "Tidak Ada"
+  }
+]
